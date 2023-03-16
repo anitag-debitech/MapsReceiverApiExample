@@ -1,4 +1,4 @@
-# MAPS API Receiver Example Application
+# Multi-Account Push Service API Receiver Example Application
 This is an example API application, in C# on .NET Framework, showing the implementation of a MAPS Transaction Receiver Endpoint.
 
 You can clone this repository, and implement your own logic in the MapsTransactionController class, in the ReceiveTransaction method.
